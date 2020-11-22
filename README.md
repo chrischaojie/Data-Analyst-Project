@@ -1,2 +1,2 @@
-# Data-Analyst-Project-IBM
+# Data-Analyst-Project
 Store IBM Data Analysis projects
